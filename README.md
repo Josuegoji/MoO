@@ -12,7 +12,7 @@ I was responsible for virtually all aspects of the game's programming, including
 
 ## Media
 🎥 Gameplay video: [Watch here](https://youtu.be/a1hhDisCbJ8)  
-▶️ Playable build: [Download / Play here](LINK_DE_LA_BUILD)
+▶️ Playable build: [Download / Play here](https://yiyixmin.itch.io/moo)
 
 ## Technologies
 - Unity
