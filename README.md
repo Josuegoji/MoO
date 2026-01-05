@@ -11,8 +11,8 @@ I was responsible for virtually all aspects of the game's programming, including
 - Integrated game logic and progression systems
 
 ## Media
-🎥 Gameplay video: [Watch here](https://youtu.be/a1hhDisCbJ8)  
-▶️ Playable build: [Download here](https://yiyixmin.itch.io/moo)
+Gameplay video: [Watch here](https://youtu.be/a1hhDisCbJ8)  
+Playable build: [Download here](https://yiyixmin.itch.io/moo)
 
 ## Technologies
 - Unity
