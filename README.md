@@ -1,16 +1,19 @@
-## Hi there 👋
+## About the project
+MoO is a roguelike game developed in Unity where the player abducts cows across procedurally generated ranches.
+This game was developed as part of a university academic project.
+I was responsible for virtually all aspects of the game's programming, including the gameplay systems, core mechanics, and enemy AI.
 
-<!--
-**Josuegoji/josuegoji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My role
+- Designed and implemented all gameplay systems
+- Programmed core roguelike mechanics
+- Developed enemy AI behaviors
+- Implemented player controls and interactions
+- Integrated game logic and progression systems
 
-Here are some ideas to get you started:
+## Media
+🎥 Gameplay video: [Watch here](https://youtu.be/a1hhDisCbJ8)  
+▶️ Playable build: [Download / Play here](LINK_DE_LA_BUILD)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+- Unity
+- C#
